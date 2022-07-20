@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mary John, but just call me MJ.
 - 👀 I’m interested to do what I know and interested to learn what I don't know.
-- 🌱 I’m currently learning Tableau and SAS Programming.
-- 💞️ I’m looking to collaborate on anything and everything related to data and it's analysis in the feild of biostatistics and business.
+- 🌱 I’m currently learning Tableau and SAS Programming and working on my research project.
+- 💞️ I’m looking to collaborate on anything and everything related to data and it's analysis in the field of biostatistics and business.
 - 📫 Linkedin or Twitter
 
 <!---
