@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mary John, but just call me MJ.
 - 👀 I’m interested to do what I know and interested to learn what I don't know.
-- 🌱 Proficient in R Programming, Python, SQL, PowerBI, Microsoft Office, PowerBI, Tableau and SPSS.
+- 🌱 Proficient in R Programming, Python, SQL, PowerBI, Microsoft Excel, LaTex, Tableau and SPSS.
 - 💞️ I’m looking to collaborate on anything and everything related to data and it's analysis in the field of statistics and business.
 - 📫 Linkedin or Twitter
 
